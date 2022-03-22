@@ -1,0 +1,73 @@
+﻿cargo,Medida,genero
+Engineering,51,Masculino
+Research and Development,49,Femino
+Training,45,Femino
+Engineering,44,Femino
+Accounting,43,Masculino
+Research and Development,42,Masculino
+Services,42,Femino
+Human Resources,40,Femino
+Sales,40,Femino
+Support,40,Femino
+Legal,39,Femino
+Human Resources,36,Masculino
+Support,36,Masculino
+Training,35,Masculino
+Marketing,34,Masculino
+Product Management,34,Masculino
+Services,34,Masculino
+Business Development,33,Femino
+Marketing,33,Femino
+Sales,33,Masculino
+Accounting,31,Femino
+Business Development,27,Masculino
+Legal,27,Masculino
+Product Management,27,Femino
+Training,7,Bigender
+Legal,5,Polygender
+Sales,5,Genderqueer
+Marketing,4,Agender
+Accounting,3,Agender
+Business Development,3,Non-binary
+Engineering,3,Polygender
+Human Resources,3,Bigender
+Human Resources,3,Non-binary
+Legal,3,Agender
+Marketing,3,Genderfluid
+Marketing,3,Polygender
+Research and Development,3,Genderfluid
+Services,3,Agender
+Business Development,2,Polygender
+Engineering,2,Genderqueer
+Human Resources,2,Agender
+Human Resources,2,Genderqueer
+Human Resources,2,Polygender
+Legal,2,Non-binary
+Marketing,2,Genderqueer
+Marketing,2,Non-binary
+Product Management,2,Bigender
+Product Management,2,Genderqueer
+Product Management,2,Non-binary
+Product Management,2,Polygender
+Research and Development,2,Agender
+Research and Development,2,Non-binary
+Sales,2,Polygender
+Support,2,Bigender
+Support,2,Genderfluid
+Support,2,Genderqueer
+Training,2,Polygender
+Accounting,1,Bigender
+Accounting,1,Non-binary
+Business Development,1,Agender
+Business Development,1,Bigender
+Business Development,1,Genderqueer
+Engineering,1,Agender
+Engineering,1,Bigender
+Engineering,1,Genderfluid
+Engineering,1,Non-binary
+Marketing,1,Bigender
+Sales,1,Agender
+Sales,1,Bigender
+Services,1,Non-binary
+Services,1,Polygender
+Training,1,Agender
